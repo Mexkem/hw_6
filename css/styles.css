@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: slateblue;
+}
+/* bulutlar */
+.a {
+  width: 250px;
+  position: absolute;
+  top: 100px;
+  right: 10px;
+  position: fixed;
+}
+.c {
+  width: 250px;
+  position: relative;
+  left: 200px;
+  position: fixed;
+}
+.b {
+  width: 100%;
+}
+/* textlar bn ishlangan qismi */
+span {
+  /* width:berib bo'lmaydi */
+  background-color: springgreen;
+  display: inline;
+}
+p {
+  background-color: seagreen;
+  width: 100px;
+  display: inline-block;
+}
+.f {
+  height: 60px;
+  font-size: 45px;
+  background-color: gold;
+  display: inline-block;
+  width: 100%;
+}
+/* 2-vazifa */
+.qq {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 200px;
+  top: 928px;
+}
+.ss {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 100px;
+  top: 828px;
+}
+.xx {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
